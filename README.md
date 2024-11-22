@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:1ABC9C,100:2ECC71&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:DA70D6&height=120&section=header"/>
 
 <div align="center">
   <a href="https://github.com/Bazilisco">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=2000&color=2ECC71&background=FFFFFF00&width=435&lines=Olá!+Sou+Gabriel+Bazilio;Desenvolvedor+de+Jogos+e+Software;Bem-Vindo+ao+meu+GitHub!"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=2000&color=DA70D6&background=FFFFFF00&width=500&lines=Olá!+Sou+Gabriel+Bazilio;Desenvolvedor+de+Software;Bem-Vindo+ao+meu+GitHub!"/>
   </a>
 </div>
 
@@ -33,7 +33,7 @@
 ### **Projetos em Destaque**
 
 📂 **[Bot Reprodutor Musical](https://github.com/Bazilisco/MaestroMind/)**  
-> Um bot simples para reprodução de musicas no discord.
+> Um bot simples para reprodução de músicas no Discord.
 
 ---
 
@@ -44,4 +44,4 @@
   <a href="https://wa.me/11959400083" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:1ABC9C,100:2ECC71&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:DA70D6&height=120&section=footer"/>
