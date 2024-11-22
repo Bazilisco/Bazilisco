@@ -9,14 +9,13 @@
 <div align="center">
   <a href="https://github.com/Bazilisco">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bazilisco&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bazilisco&layout=compact&langs_count=7&theme=github_dark"/>
   </a>
 </div>
 
 ---
 
-### **Tecnologias e Ferramentas**
-<div align="center" style="display: flex;">
+### **Linguagens e Ferramentas**
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img alt="C#" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img alt="Unity" height="40" src="https://img.icons8.com/ios-filled/50/000000/unity.png">
   <img alt="Ruby" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
