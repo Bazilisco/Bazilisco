@@ -29,13 +29,6 @@
 
 ---
 
-### **Projetos em Destaque**
-
-📂 **[Bot Reprodutor Musical](https://github.com/Bazilisco/MaestroMind/)**  
-> Um bot simples para reprodução de músicas no Discord.
-
----
-
 ### **Contato**
 <div align="center">
   <a href="mailto:gabriel.basilio16@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=red"></a>
